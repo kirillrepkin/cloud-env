@@ -2,4 +2,3 @@
 .terraform.lock.hcl
 backend.conf
 variables.env
-packer.json
