@@ -18,3 +18,5 @@ packer build  \
 ```bash
 terraform apply
 ```
+
+![diagram] (graph.svg)
